@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <h1 align="center">Hi there 👋, I'm Abdurrahman Faiz</h1>
 
 <p align="center">
@@ -71,7 +74,8 @@ Contributed as a volunteer WordPress Developer for the Solo International Perfor
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](www.linkedin.com/in/abdurrahman-faiz-af)  
+- 💼 [LinkedIn](www.linkedin.com/in/abdurrahman-faiz-af)
+- 🎴[Dribble(https://dribbble.com/FaizXOXO)]
 - 📧 [fabdurrahman904@gmail.com](mailto:fabdurrahman904@gmail.com)  
 
 > “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*

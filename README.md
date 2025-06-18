@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=ffcad4,e2f0cb,a0e7e5,b4f8c8,ffc6ff&height=180&section=header&text=Hi,%20I'm%20Abdurrahman%20Faiz!%20👾&fontSize=32&animation=fadeIn&desc=Frontend%20Engineer%20·%20Product%20Designer&descSize=18&fontColor=5e548e" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&center=true&vCenter=true&width=800&lines=I`m+Abdurrahman+Faiz+A+Product+Engineer;Welcome+to+my+GitHub!;Let's+build+something+awesome.;Design.+Code.+Earn." alt="Typing SVG" />
 </p>
+
 
 <p align="center">
  <i>Building delightful UIs & shaping product experiences — Frontend Engineer × Product Designer</i><br>

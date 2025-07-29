@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Informatics Engineering Student at Universitas Sebelas Maret — <b>GPA 3.83</b>  
+🎓 Fresh Graduate Informatics Engineering at Universitas Sebelas Maret — <b>GPA 3.84</b>  
 💼 2+ years of experience in Web & Mobile Development using <b>Vue.js, React, Next.js Flutter</b>  
 🎨 Enthusiast in <b>UI/UX Design</b>, delivering end-to-end products from wireframe to deployment  
 🚀 Love to work on impactful, real-world applications with teams or solo

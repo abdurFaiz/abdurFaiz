@@ -87,9 +87,15 @@ Contributed as a volunteer WordPress Developer for the Solo International Perfor
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdurFaiz&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurFaiz&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdurFaiz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=FFFFFF&ring_color=FF6EC7" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=abdurFaiz&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurFaiz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF" width="40%" />
 </p>
 
 ---

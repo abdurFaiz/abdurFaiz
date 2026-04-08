@@ -5,7 +5,7 @@
 
 
 <p align="center">
- <i>Building delightful UIs & shaping product experiences — Frontend Engineer × Product Designer</i><br>
+ <i>Building delightful UIs & shaping product experiences — Software Engineer × Product Designer</i><br>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 🎓 Fresh Graduate Informatics Engineering at Universitas Sebelas Maret — <b>GPA 3.84</b>  
-💼 2+ years of experience in Web & Mobile Development using <b>Vue.js, React, Next.js Flutter</b>  
+💼 2+ years of experience in Web & Mobile Development using <b>Vue.js, React, Next.js Flutter, Laravel</b>  
 🎨 Enthusiast in <b>UI/UX Design</b>, delivering end-to-end products from wireframe to deployment  
 🚀 Love to work on impactful, real-world applications with teams or solo
 
@@ -103,6 +103,7 @@ Contributed as a volunteer WordPress Developer for the Solo International Perfor
 - 💼 [LinkedIn](www.linkedin.com/in/abdurrahman-faiz-af)
 - 🎴[Dribble(https://dribbble.com/FaizXOXO)]
 - 📧 [fabdurrahman904@gmail.com](mailto:fabdurrahman904@gmail.com)  
+- 🔗[Portfolio](https://abdurrahmanspace.framer.website/)
 
 > “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
 

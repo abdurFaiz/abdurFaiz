@@ -71,11 +71,18 @@
 <h2 align="center">📌 Pinned Repositories</h2>
 
 <div width="100%" align="center">
- <a href="https://github.com/abdurFaiz/spinofy-test">
+ <a href="https://github.com/abdurFaiz/Moku-Fnb-Platform">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=abdurFaiz&repo=spinofy-test&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=abdurFaiz&repo=spinofy-test&layout=compact&show_owner=true&description_lines_count=2" />
-      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=abdurFaiz&repo=spinofy-test&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=abdurFaiz&repo=Moku-Fnb-Platform&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=abdurFaiz&repo=Moku-Fnb-Platform&layout=compact&show_owner=true&description_lines_count=2" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=abdurFaiz&repo=Moku-Fnb-Platform&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
+    </picture>
+  </a>
+   <a href="https://github.com/abdurFaiz/automation-feedback-customer-powered-by-ai">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=abdurFaiz&repo=automation-feedback-customer-powered-by-ai&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=abdurFaiz&repo=automation-feedback-customer-powered-by-ai&layout=compact&show_owner=true&description_lines_count=2" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=abdurFaiz&repo=automation-feedback-customer-powered-by-ai&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
     </picture>
   </a>
   <a href="https://github.com/abdurFaiz/appointly-apps">

@@ -92,6 +92,13 @@
       <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=abdurFaiz&repo=appointly-apps&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
     </picture>
   </a>
+    <a href="https://github.com/abdurFaiz/shopify-store-vegetl">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=abdurFaiz&repo=shopify-store-vegetl&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/pin/?username=abdurFaiz&repo=shopify-store-vegetl&layout=compact&show_owner=true&description_lines_count=2" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/pin/?username=abdurFaiz&repo=shopify-store-vegetl&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
+    </picture>
+  </a>
 </div>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
